@@ -1,0 +1,13 @@
+Flask
+requests
+time
+tkinter
+json
+os
+dotenv
+re
+hashlib
+urllib.parse
+tld
+numpy
+pickle
